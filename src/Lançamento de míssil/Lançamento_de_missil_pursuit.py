@@ -1,6 +1,4 @@
 from vpython import * 
-from math import sin, cos, sqrt
-from scipy.optimize import newton
 
 class airplane:
     speed = 20 # Sign sensitive!
