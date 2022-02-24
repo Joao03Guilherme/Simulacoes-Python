@@ -1,10 +1,12 @@
 from vpython import * 
 
-class airplane:
+# NOT FINISHED
+"""
+class balistic_missile:
     speed = 20 # Sign sensitive!
     def __init__(self, initial_position):
         self.position = initial_position
-        self.velocity = vector(airplane.speed,0,0)
+        self.velocity = vector(balistic_missile.speed,0,0)
         self.acceleration = vector(2,1.7,0)
         
         # Visualization
@@ -60,3 +62,4 @@ while True:
         a.vpython_obj.color = color.red
         print(f"Intersection at: ({m.position.x}, {m.position.y})")
         break
+"""

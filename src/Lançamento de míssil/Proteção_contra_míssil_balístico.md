@@ -1,0 +1,3 @@
+## Proteção contra míssil balístico
+Um míssil é lançado da posição $x_0$ com velocidade de módulo $v'$ segundo um ângulo $\alpha$ com a horizontal. O míssil segue uma trajetória balística, em que a única força a atuar é o peso.
+Algum tempo depois, $\Delta t$ segundos, um sistema de defesa é acionado, e um outro míssil, que segue uma trajetória retilínea, é lançado com velocidade de módulo $v$ segundo um ângulo $\beta$ com a horizontal. Determina uma expressão para o ângulo $\beta$. 
