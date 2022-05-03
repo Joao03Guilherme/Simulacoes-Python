@@ -1,1 +1,2 @@
-# Computational-Physics
+# Física Computacional
+Repositório destinado a guardar projetos relacionados com física computacional.\
